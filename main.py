@@ -11,4 +11,4 @@ def home():
 
 @app.get("/about")
 def about():
-    return "this is about page"
+    return "this is not about page"
